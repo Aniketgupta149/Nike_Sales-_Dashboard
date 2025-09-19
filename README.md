@@ -6,7 +6,7 @@ This project showcases **data cleaning, pivot tables, and data visualization tec
 
 ## 📸 Dashboard Preview
 
-[Nike Sales Dashboard](Nike_Dashboard.png)
+![Nike Sales Dashboard](Nike_Dashboard.png)
 
 ## 📂 Project Overview
 
